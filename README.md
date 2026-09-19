@@ -29,3 +29,8 @@ scanf(" %c", &answer);
 // Перевірка. Для а=0 b=3 res_integral=9.  Для а=0 b=4 res_integral=21.333
 //================================================================================ 
 <img width="861" height="266" alt="image" src="https://github.com/user-attachments/assets/281c0415-80e8-4635-be11-09a7aae5ae87" />
+<img width="921" height="423" alt="image" src="https://github.com/user-attachments/assets/89c7e600-18a4-40f4-adbd-d49a47477ec4" />
+<img width="936" height="518" alt="image" src="https://github.com/user-attachments/assets/60950e6f-ad80-4503-ab2c-ec82601faf01" />
+<img width="960" height="250" alt="image" src="https://github.com/user-attachments/assets/d016d9d0-4339-4c17-ab9c-d8e8ec94c549" />
+
+
