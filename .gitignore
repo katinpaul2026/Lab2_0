@@ -1,0 +1,9 @@
+bin/
+obj/
+*.o
+*.layout
+*.depend
+*.cbp.user
+*.so
+*.a
+*~
